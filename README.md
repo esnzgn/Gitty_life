@@ -6,7 +6,7 @@ git description for beginners
 
 Git is a version control tool that helps you track, share, and collaborate on code. GitHub is a platform to host Git repositories online.
 
-This cheatsheet summarizes the **most useful commands**, their **meanings**, and **real-world examples** — especially for RStudio users.
+This cheatsheet summarizes the **most useful commands**, their **meanings**, and **real-world examples** — especially for RStudio users, but also other IDEs if you simply use your OS terminal or CMD.
 
 ---
 
