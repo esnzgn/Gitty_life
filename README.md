@@ -19,7 +19,7 @@ git config --global user.name "Ehsan Zangene"
 git config --global user.email "zangeneh.ehsan@gmail.com"
 ```
 
-💡 Your email **must be verified on GitHub** or your contributions won’t show up.
+💡 Your email **must be verified on GitHub/other git version control sofwares** or your contributions won’t show up.
 
 ---
 
